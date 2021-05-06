@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1050811249805",
+    "project_id": "characteranalyzer2",
+    "storage_bucket": "characteranalyzer2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1050811249805:android:8fb0c5b38d3ee32ed5dec4",
+        "android_client_info": {
+          "package_name": "com.example.characteranalyzer2app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1050811249805-npqe83ipbv9p8cm5snb0u98hek1i9rpp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAInN3Z7ko-ndbq7h_sPHxQWdout4jU0g0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1050811249805-npqe83ipbv9p8cm5snb0u98hek1i9rpp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
